@@ -123,11 +123,13 @@ Lo mismo ocurre con Glucosa_IMC y AVG-Nivel de glucosa e IMC.
 * Aplicamos GridSearchCV para conseguir los mejores parámetros.
 
 * El modelo que mejor genera es --> **KNeighborsClassifier(n_neighbors=5)**
+
+## Exportamos el mejor modelo con pickle para poder realizar la evaluación
+* El mejor modelo 'KNeighborsClassifier' lo exportamos a un fichero llamado 'model' junto con los datos a predecir 'test.csv'. En 'predict.py' podemos lanzar el proceso.
+
 ## Resultados
 * Comprobamos los resultados con las siguientes métricas: accuracy_score, confusion_matrix, roc_curve, auc, roc_auc_score
 
 * Gráficamos los resultados.
 ## Conclusión
 * **Podemos afirmar que el modelo seleccionado hace muy buena predicción de los datos, obteniendo un scoring de 0.991 en el Train y un 0.958 en el Validation.**
-## Exportamos el mejor modelo con pickle para poder realizar la evaluación
-* El mejor modelo 'KNeighborsClassifier' lo exportamos a un fichero llamado 'model' junto con los datos a predecir 'test.csv'. En 'predict.py' podemos lanzar el proceso.
