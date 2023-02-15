@@ -1,4 +1,4 @@
-# DATA SCIENCE - EDA - ML - PREDICCIÓN DEL INFARTO CEREBRAL / ICTUS
+# DATA SCIENCE - EDA - ML - PREDICCIÓN DEL INFARTO CEREBRAL
 * Un accidente cerebrovascular o ataque cerebral sucede cuando se detiene el flujo sanguíneo a parte del cerebro. Al no poder recibir el oxígeno y nutrientes que necesitan, las células cerebrales comienzan a morir en minutos. Esto puede causar un daño severo al cerebro, discapacidad permanente e incluso la muerte.
 
 * **¿Y si una persona pudiera saber que tiene una alta probabilidad de sufrir un ictus en los próximos años?**
