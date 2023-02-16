@@ -130,6 +130,6 @@ Lo mismo ocurre con Glucosa_IMC y AVG-Nivel de glucosa e IMC.
 ## Resultados
 * Comprobamos los resultados con las siguientes métricas: accuracy_score, confusion_matrix, roc_curve, auc, roc_auc_score
 
-* Gráficamos los resultados.
+* Graficamos los resultados.
 ## Conclusión
 * **Podemos afirmar que el modelo seleccionado hace muy buena predicción de los datos, obteniendo un scoring de 0.991 en el Train y un 0.958 en el Validation.**
